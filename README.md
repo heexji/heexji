@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=venom&&color=gradient&height=300&section=header&text=Welcome%20to%20heexji%20github!&fontSize=55&fontColor=CCCCCC))
+![Welcome Banner](https://capsule-render.vercel.app/api?type=venom&&color=gradient&height=300&section=header&text=Welcome%20to%20heexji%20github!&fontSize=55&fontColor=CCCCCC)
 
 
 ## 🛠 Tech Stack  
