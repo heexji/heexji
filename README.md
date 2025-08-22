@@ -10,7 +10,7 @@
   <br>
   광운대학교 CHIC 전공동아리 <strong>2024.03 ~ 2025.03</strong>
   <br>
-  광운대학교 UMC 8th SpringBoot
+  광운대학교 UMC 8th SpringBoot <strong>2025.03 ~ 2025.08</strong>
   <br>
   광운대학교 AIaas LAB <strong>2024.09 ~</strong>
 </div>
