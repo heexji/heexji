@@ -3,16 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&&color=gradient&height=300&section=header&text=Welcome%20to%20heexji%20github!&fontSize=55&fontColor=CCCCCC" alt="Welcome Banner"/>
 </div>
 
-<!-- it's me!-->
+<!--me-->
 <div align='center'>
   <h2>🙌 Introduction</h2>
   광운대학교 정보융합학부 <strong>2022.03 ~</strong>
   <br>
   광운대학교 CHIC 전공동아리 <strong>2024.03 ~ 2025.03</strong>
   <br>
-  광운대학교 AIaas LAB <strong>2024.09 ~</strong>
+  광운대학교 UMC 8th SpringBoot
   <br>
-  광운대학교 UMC 8th SpringBoot <strong>2025.03 ~</strong>
+  광운대학교 AIaas LAB <strong>2024.09 ~</strong>
 </div>
 
 <!-- Tech Stack -->
