@@ -6,15 +6,13 @@
 <!--me-->
 <div align='center'>
   <h2>🙌 Introduction</h2>
-  광운대학교 AIaaS 연구실 석사과정 <strong>2026.03 ~</strong>
+  광운대학교 AIaaS LAB 석사과정 <strong>2026.03 ~</strong>
   <br>
   광운대학교 정보융합학부 <strong>2022.03 ~ 2026.02</strong>
   <br>
   광운대학교 CHIC 전공동아리 <strong>2024.03 ~ 2025.03</strong>
   <br>
   광운대학교 UMC 8th SpringBoot <strong>2025.03 ~ 2025.08</strong>
-  <br>
-  광운대학교 AIaas LAB <strong>2024.09 ~</strong>
 </div>
 
 <!-- Tech Stack -->
